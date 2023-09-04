@@ -1,5 +1,6 @@
 ## ESCALERA DENTADA (diferente a escalera con losa inclinada)
 (guía) CASA GOANE/PRADERAS/DICUZZO/GUSTAVITO. En casa FCHAYA tenemos una escalera con escalones emotrados a una viga inclinada en la pared
+
 La altura a salvar va entre piso terminado de PB y piso terminado de PA. EL RECUBRIMIENTO ES DE 2 CM.
  1. Defino la contrahuella que va entre los 17 y 18 cm por lo general
  2. La huella es de 26 cm por lo general
