@@ -36,6 +36,11 @@ La vinculación arriba puede ser a una viga o a una losa con armadura fi del 8 c
 
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/9ae72f76-f2b1-4c7a-aafd-0e89930d9cf6)
 
+## ESCALERA DE CUATRO TRAMOS
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/8bd35557-c9b7-47a1-9352-91adc6e85f02)
+CASA VILAGO 
+
+
 
 ## ESCALERAS METÁLICAS
 (guía) 405/202
