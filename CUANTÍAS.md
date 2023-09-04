@@ -1,26 +1,25 @@
  ## CUANTÍAS DE LOS ELEMENTOS DE OBRA [KG/M3]
- BASES AISLADAS 16/17
  
- LOSAS MACIZAS 57 (MAX 70)
+ Bases aisladas 16/17
  
- ESCALERA COMÚN 70
+ Losas macizas 57 (MAX 70)
  
- ESCALERA DE EJE QUEBRADO 90 A 115
+ Escalera común 70
  
- TABIQUES CON COLUMNA IMPORTANTE 120
+ Escalera de eje quebrado  90 A 115
  
- TABIQUE 160
+ Tabiques 160
  
- VIGAS 90/95
+ Vigas 90/95
  
- ENCADENADOS 75 (O MENOS)
+ Encadenados 75 (O MENOS)
  
- LOSAS DE VIGUETAS 29/32
+ Losas de viguetas 29/32
  
- SOLERA 57
+ Solera 57
  
- PLATEA 100/110
+ Platea 100/110
 
   ## CUANTÍAS MINIMAS Y MÁXIMAS
   
-  TABIQUE: CUANTÍA MIN. 5 ‰
+  Tabique: CUANTÍA MIN. 5 ‰
