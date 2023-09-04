@@ -12,3 +12,9 @@ Longitud de cordón comprimido:
 
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/b3fcff9a-6e2b-4bc5-895d-75fa5ee70c6f)
 
+Se procura que el ángulo sea de 60°, es el óptimo por cuestiones constructivas (creo).
+
+El brazo de palanca es la distancia entre los baricentros de los cordones 
+
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/5afd3751-e8e7-40cf-896a-4dbc2ebd6ade)
+
