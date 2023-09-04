@@ -1,3 +1,5 @@
+## CUBIERTAS
+
 El planteo se realiza con vigas metálicas y correas, los perfiles C son los mas utilizados en cubiertas, pueden estar solos o soldados entre sí.
 
 En lo posible se busca una pendiente del 10% y la mínima es de 8%. El planteo de las correas se realiza a 30 cm de la viga de apoyo para tener en cuenta la chapa que lleva arriba (no me acuerdo como se llama) y en el otro extremo que estén al lado de la canaleta, siempre mirando en dirección a la pendiente.
