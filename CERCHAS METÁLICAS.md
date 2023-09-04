@@ -1,3 +1,5 @@
+##CERCHAS METÁLICAS
+
 Se realiza el cálculo en la planilla, solo verificmos el cordón comprimido, como el acero resiste bien a la tracción, repetimos el elemento en la zona traccionada. (lo que está en letras rojas se cambia)
 
 Cálculamos con una carga puntual, análogo a cubierta P=70*A1/1000 [tn] o en su defecto se considera que una persona se cuelga, 90 kg aprox
