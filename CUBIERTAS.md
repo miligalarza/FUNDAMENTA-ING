@@ -1,6 +1,6 @@
 El planteo se realiza con vigas metálicas y correas 
 
- - PLANTEOS
+ ## PLANTEOS
     - PLANTEO BÁSICO
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/725e3fea-7522-45c7-88cb-832ad9541a78)
 
