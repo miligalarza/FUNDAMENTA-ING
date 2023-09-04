@@ -1,4 +1,4 @@
-##CERCHAS METÁLICAS
+ ## CERCHAS METÁLICAS
 
 Se realiza el cálculo en la planilla, solo verificmos el cordón comprimido, como el acero resiste bien a la tracción, repetimos el elemento en la zona traccionada. (lo que está en letras rojas se cambia)
 
