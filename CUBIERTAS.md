@@ -8,11 +8,11 @@ La chapa que lleva arriba las correas es de 5 cm, se trata de ubicar a la misma 
 
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/dfe20faf-6c41-46f3-8a6a-d8341507366f)
 
- ## PLANTEOS
+  # PLANTEOS
     - PLANTEO BÁSICO
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/725e3fea-7522-45c7-88cb-832ad9541a78)
 
-## DIMENSIONADO
+ # DIMENSIONADO
 Con la planillas de vigas metálicas, se hace una interación hasta lograr el mayor aprovechamiento de vigas y correas. Se busca cantidad de vigas exactas, teniendo en cuenta que la separación de las mismas es la longitud de las correas, tratamos que estén cada 4 metros. Las correas tienen una separación máxima de 1 metro.
 
 Se deben controlar los pesos al cambiar el espesor der perfil.
