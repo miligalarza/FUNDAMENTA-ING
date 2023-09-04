@@ -4,7 +4,8 @@ La altura a salvar va entre piso terminado de PB y piso terminado de PA. EL RECU
  1. Defino la contrahuella que va entre los 17 y 18 cm por lo general
  2. La huella es de 26 cm por lo general
  3. Tamaño de bloque de fundación: 60x160x60 (anchoxlargoxprofundidad) puede variar el largo dependiendo del tamaño de los peldaños
-El concepto para poner la armadura de este tipo de escaleras es que deben estar lo suficientemente empotradas en el bloque de fundación y en el descanso o viga a donde lleguen. El planteo puede incluir encadenados en la mampostería para poder sujetar los escalones o también vigas inclinadas para que los peldaños sean como voladizos de las mismas.
+
+El concepto para poner la armadura de este tipo de escaleras es que deben estar lo suficientemente empotradas en el bloque de fundación y en el descanso o viga a donde lleguen. El planteo puede incluir encadenados en la mampostería para poder sujetar los escalones, vigas auxiliares en el medio de la luz preferentemente o también vigas inclinadas para que los peldaños sean como voladizos de las mismas.
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/52fcfdd3-a033-43fb-8293-eef7bc24a101)
 La armadura del bloque de fundación se debe plantear en espera y se vincula mediante un estribo horizontal con el primer peldaño. Dependiendo del largo del peldaño puede ser cada 10 cm o cada 8, fi del 8. El bloque del peldaño sobre sale del 0.00 de la obra siendo este el primer escalón. 
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/d9f3dfbb-6a59-4cdd-9f3c-66491312bc52)
