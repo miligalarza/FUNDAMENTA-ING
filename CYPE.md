@@ -4,7 +4,7 @@ EN RESULTADOS
 Cons este icono podemos sacar los esfuerzos, envolventes e isovalores
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/22a13123-7323-4ef3-b1fe-1f3fd3437cdc)
 
-De aca imprimimos la informacion, podemos scar el informe de sismos, materiales, planillas etc.
+De aca imprimimos la informacion, podemos scar el informe de sismos, materiales, planillas etc. Con el segundo icono puedo exportar las plantas de cype.
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/dd978ec9-d8cb-4288-9787-fc2eca29b623)
 
 
