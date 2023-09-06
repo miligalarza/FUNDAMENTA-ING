@@ -12,6 +12,11 @@ La chapa que lleva arriba las correas es de 5 cm, se trata de ubicar a la misma 
     - PLANTEO BÁSICO
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/725e3fea-7522-45c7-88cb-832ad9541a78)
 
+   - PLANTEO PARA CUBIERTAS A DOS AGUAS (TIPO 1)
+
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/4f282d01-3789-47dc-bf65-69b2bcfb7ea0)
+
+
  # DIMENSIONADO
 Con la planillas de vigas metálicas, se hace una interación hasta lograr el mayor aprovechamiento de vigas y correas. Se busca cantidad de vigas exactas, teniendo en cuenta que la separación de las mismas es la longitud de las correas, tratamos que estén cada 4 metros. Las correas tienen una separación máxima de 1 metro.
 
@@ -21,4 +26,8 @@ Las vigas metálicas no tienen continuidad, es decir que introducimos el factor 
 
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/f9d78b74-56ed-4b5e-81bd-c04f331a04a7)
 
+Para la cubierta a dos aguas (tipo 1) se coloca 2 vigas principales, las que son 2xC 160, las cuales soportan a las otras vigas metálicas que le dan tambien la forma a la cubierta. Para calcular las dos vigas principales, debemos colocar una puntual que corresponde a toda el área rosa y una distribuida que es igual al area celeste, en la mitad de la separación de las dos vigas centrales 
 
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/e4c6c0c6-5919-48a1-9a7d-f777fad37828)
+
+La carga rosa se colocaría en P en la planilla, como el area/2 por la carga de la cubierta y la celeste solo se pondria la separación/2 en la celda separación, y eso ya lo calcula solo 
