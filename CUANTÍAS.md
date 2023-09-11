@@ -20,6 +20,12 @@
  
  Platea 100/110
 
+ COLUMNAS 220/250
+
   ## CUANTÍAS MINIMAS Y MÁXIMAS
   
   Tabique: CUANTÍA MIN. 5 ‰
+
+  Columna: CUANTÍA MIN. 1% CUANTÍA MAX 8%
+
+  
