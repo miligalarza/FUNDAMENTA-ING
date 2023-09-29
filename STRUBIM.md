@@ -17,7 +17,7 @@
  - Si la unión es articulada se coloca una chapa lateral con pernos en la viga y si es empotrada chapa frontal con bulones y rigidizadores con chapas arriba y abajo.
  - Las cartelas que se usan para rigidizar tendrán en su mayor dimensión el valor de la altura de la viga y en la menor h/2.
 
-## TORNILLOES
+## TORNILLOS
 Usar 3/4" o 1" y los agujeros tienen 2 mm mas
  
  ## ESPESORES USADOS PARA RIGIDIZADORES Y PLACAS
