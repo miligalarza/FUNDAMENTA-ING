@@ -1,5 +1,10 @@
 ## ESCALERA DENTADA (diferente a escalera con losa inclinada)
-(guía escaleras de un tramo) CASA GOANE/PRADERAS/DICUZZO/GUSTAVITO. En casa FCHAYA tenemos una escalera con escalones emotrados a una viga inclinada en la pared
+(guía escaleras de un tramo dentanda) CASA GOANE/SEMINARIO/PRADERAS/DICUZZO/GUSTAVITO. 
+
+
+escaleras de losa inclinada de dos tramos FCHAYA. En casa FCHAYA tenemos una escalera con escalones emotrados a una viga inclinada en la pared
+
+ESCALERA DENTANDA DE DOS TRAMOS CASA TP
 
 La altura a salvar va entre piso terminado de PB y piso terminado de PA. EL RECUBRIMIENTO ES DE 2 CM.
  1. Defino la contrahuella que va entre los 17 y 18 cm por lo general
