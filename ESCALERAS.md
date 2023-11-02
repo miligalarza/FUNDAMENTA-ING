@@ -43,6 +43,7 @@ La vinculación arriba puede ser a una viga o a una losa con armadura fi del 8 c
 
 ## ESCALERA DE CUATRO TRAMOS
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/8bd35557-c9b7-47a1-9352-91adc6e85f02)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/f017d9f8-4a2e-4d84-857a-16e0521f25cb)
 
 CASA VILAGO: se hace por tramos y se coloco un tabique en el medio 
 
@@ -51,11 +52,30 @@ PRIMER TRAMO:macizo, depende de los que construyan como será, puede ser con lad
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/e5544946-7d52-4dba-9063-63915bd234f2)
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/c295abf6-fb5d-44e5-8ec6-7f33c4bcf314)
 
-SEGUNDO TRAMO: nace del tabique, en este caso se separaba un poco los escalones de la pared
+SEGUNDO TRAMO: nace del tabique, en este caso se separaba un poco los escalones de la pared por la ventana esquinera
 
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/b22f9756-f0c0-4966-9849-982c75c94efe)
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/db1492a7-dce2-4ea4-bd61-ddb9c24234bf)
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/faa36a5a-bbce-40fd-971c-d20160fdcfa8)
+
+TRAMO 3: tenemos armadura en espera saliendo del tabique al lado de la abertura
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/356e2cc3-a603-49e5-97a5-8347f4c9627e)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/b5b74028-2b07-408a-9147-c280ac27399f)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/06ac6819-f127-4735-9205-cb1f20d2d6ba)
+
+La armadura que esta en rojo es la que esta en espera del tabique, de la siguiente manera
+
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/ee47aeb0-def4-4398-bfbe-32ae3ccb9902)
+
+TRAMO 4:
+
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/d5b33d3b-0299-48cb-a471-ca68bddd659d)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/f72d666d-a474-4827-ac6e-a091ad6179a6)
+
+En este caso la escalera termina en una losa de entrepiso
+
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/2c2d0ec9-08ef-4558-a7c7-42e5942ac88b)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/16c71c76-0cf0-491c-a1d0-44f94ade5025)
 
 
 ## ESCALERAS METÁLICAS
