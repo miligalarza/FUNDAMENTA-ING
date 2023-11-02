@@ -44,8 +44,18 @@ La vinculación arriba puede ser a una viga o a una losa con armadura fi del 8 c
 ## ESCALERA DE CUATRO TRAMOS
 ![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/8bd35557-c9b7-47a1-9352-91adc6e85f02)
 
-CASA VILAGO 
+CASA VILAGO: se hace por tramos y se coloco un tabique en el medio 
 
+PRIMER TRAMO:macizo, depende de los que construyan como será, puede ser con ladrillo.
+
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/e5544946-7d52-4dba-9063-63915bd234f2)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/c295abf6-fb5d-44e5-8ec6-7f33c4bcf314)
+
+SEGUNDO TRAMO: nace del tabique, en este caso se separaba un poco los escalones de la pared
+
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/b22f9756-f0c0-4966-9849-982c75c94efe)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/db1492a7-dce2-4ea4-bd61-ddb9c24234bf)
+![image](https://github.com/miligalarza/FUNDAMENTA-ING/assets/143607366/faa36a5a-bbce-40fd-971c-d20160fdcfa8)
 
 
 ## ESCALERAS METÁLICAS
